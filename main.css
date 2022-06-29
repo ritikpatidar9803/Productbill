@@ -1,0 +1,42 @@
+
+#invoice{
+    font-size: 40px;
+    font-weight: bolder;
+    color:darkblue;
+    font-family: "Lucida Console", "Courier New", monospace;
+    width: 100%;
+    border: 2px solid black;
+}
+#firstrow{
+    height: 150px;
+}
+#firstrow,#trow{
+    border: 2px solid black;
+    margin: 5px;
+}
+#col2{
+    border: 2px solid black;
+    padding: 5px;
+    height : fit-content;
+}
+textarea{
+    width: 100%;
+}
+thead{
+    font-weight: bolder;
+
+}
+.col{
+    border: 2px solid black;
+}
+
+#form1{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#bill{
+    height : fit-content;
+    border: 2px solid black;
+}
+
